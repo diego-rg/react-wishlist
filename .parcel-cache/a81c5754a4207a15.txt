@@ -1,4 +1,4 @@
-4745
+4746
 76C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\source-map\dist132896029820501732 1
 103C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\htmlnano\docs\versioned_docs\version-2.0.0132896029827517410 1
 88C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\agents.js132895985831050000 0
@@ -10,7 +10,7 @@
 58C:\Users\Diego\Desktop\Proyectos\react-wishlist\.gitignore132896028888718890 0
 83C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\js-tokens\package.json132895985420700000 0
 80C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\color-name\index.js132877860778370000 0
-60C:\Users\Diego\Desktop\Proyectos\react-wishlist\package.json132896035722899224 0
+60C:\Users\Diego\Desktop\Proyectos\react-wishlist\package.json132896048725289502 0
 69C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-what132896029803688394 1
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\regions\IT.js132895985831050000 0
 102C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\source-map-js\lib\source-map-generator.js132895985881600000 0
@@ -18,16 +18,26 @@
 89C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\electron-to-chromium\LICENSE132895985833490000 0
 89C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\type-fest\source\except.d.ts132877860775080000 0
 88C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\runtime-browser-hmr132896029805467299 1
-52C:\Users\Diego\Desktop\Proyectos\react-wishlist\dist132896035563338065 1
+52C:\Users\Diego\Desktop\Proyectos\react-wishlist\dist132896047206985591 1
 105C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-merge-longhand\src\lib\decl\index.js132895985888610000 0
 83C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\lodash.memoize\LICENSE132895985897430000 0
 98C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-minify-gradients\package.json132895985897840000 0
 68C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\timsort132896029814285557 1
 69C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\entities132896029804058172 1
 109C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-declaration-sorter\orders\concentric-css.cjs132895985884760000 0
-58C:\Users\Diego\Desktop\Proyectos\react-wishlist\index.html132896030142694992 0
+58C:\Users\Diego\Desktop\Proyectos\react-wishlist\index.html132896047307614702 0
 107C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\scheduler\cjs\scheduler-tracing.development.js132895985515830000 0
 110C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\features\link-rel-preconnect.js132895985831050000 0
+77C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\cosmiconfig\dist132896029814785242 1
+93C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\lib\public\Asset.js132895985772680000 0
+90C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\v8-compile-cache\package.json132895985783350000 0
+94C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\stylehacks\src\dictionary\tags.js132895985893580000 0
+92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\regions\IE.js132895985831050000 0
+57C:\Users\Diego\Desktop\Proyectos\react-wishlist\index.jsx132896046599619518 0
+93C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-normalize-display-values132896029813795852 1
+89C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-discard-comments\src132896029819992045 1
+78C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@types\parse-json132896029804767735 1
+84C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\source-map-js\README.md132895985881600000 0
 112C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\lmdb\prebuilds\darwin-x64\electron.abi99.glibc.node132895985837140000 0
 60C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules132896035722639393 1
 97C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\v8-compile-cache\v8-compile-cache.js132895985783350000 0
@@ -121,7 +131,7 @@
 103C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\svgo\plugins\removeUselessStrokeAndFill.js132895985875560000 0
 86C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\terser\dist\bundle.min.js132895985837810000 0
 103C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-selector-parser\dist\util\index.js132895985892900000 0
-102C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\package-manager\node_modules\.bin132896035719920079 1
+102C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\package-manager\node_modules\.bin132896035719930064 1
 73C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\lmdb\open.js132895985837140000 0
 73C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\terser\tools132896029820941455 1
 109C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\lmdb\prebuilds\linux-arm64\node.abi93.glibc.node132895985837140000 0
@@ -464,14 +474,6 @@
 87C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\cache\lib\index.js132895985784020000 0
 85C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-minify-selectors132896029813785859 1
 86C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-normalize-charset132896029813805848 1
-77C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\cosmiconfig\dist132896029814785242 1
-93C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\lib\public\Asset.js132895985772680000 0
-90C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\v8-compile-cache\package.json132895985783350000 0
-94C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\stylehacks\src\dictionary\tags.js132895985893580000 0
-93C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-normalize-display-values132896029813795852 1
-89C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-discard-comments\src132896029819992045 1
-78C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@types\parse-json132896029804767735 1
-84C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\source-map-js\README.md132895985881600000 0
 105C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\scheduler\node_modules\.bin\loose-envify.cmd132896035721959633 0
 84C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\htmlnano\lib\helpers.js132895985872450000 0
 88C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-normalize-positions132896029813815841 1
@@ -506,7 +508,7 @@
 96C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\type-fest\source\promise-value.d.ts132877860775080000 0
 117C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage132896029828157019 1
 101C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-reduce-initial\node_modules\.bin132896035721679806 1
-88C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\scheduler\node_modules\.bin132896035721929658 1
+88C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\scheduler\node_modules\.bin132896035721959633 1
 107C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-selector-parser\dist\selectors\node.js132895985892900000 0
 83C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-ordered-values132896029813875806 1
 97C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\mdn-data\api\inheritance.schema.json132895985902010000 0
@@ -746,7 +748,7 @@
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\utils\src\DefaultMap.js132895985781750000 0
 96C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-merge-longhand\package.json132895985888610000 0
 93C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\yaml\dist\resolveSeq-d03cb037.js132895985880710000 0
-63C:\Users\Diego\Desktop\Proyectos\react-wishlist\dist\index.html132896030508404583 0
+63C:\Users\Diego\Desktop\Proyectos\react-wishlist\dist\index.html132896047206975596 0
 89C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\yaml\dist\Schema-88e323a7.js132895985880710000 0
 85C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\yaml\dist\test-events.js132895985880710000 0
 106C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-postcss\lib\loadConfig.js132895985824860000 0
@@ -920,7 +922,7 @@
 100C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\terser\lib\compress\compressor-flags.js132895985837810000 0
 103C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\utility-types\dist\aliases-and-guards.d.ts132895985860570000 0
 114C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js132895985816090000 0
-87C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\htmlnano\node_modules\.bin132896035721056882 1
+87C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\htmlnano\node_modules\.bin132896035721066873 1
 81C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-svgo\src\lib132896029827017721 1
 101C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\utility-types\dist\aliases-and-guards.js132895985860570000 0
 105C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\utility-types\dist\aliases-and-guards.js.map132895985860570000 0
@@ -1755,7 +1757,7 @@
 96C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-calc\src\lib\stringifier.js132895985886390000 0
 95C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\htmlnano\docs\docusaurus.config.js132895985872450000 0
 113C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-selector-parser\postcss-selector-parser.d.ts132895985892900000 0
-102C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-selector-parser\node_modules\.bin132896035721709791 1
+102C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-selector-parser\node_modules\.bin132896035721739774 1
 107C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-merge-longhand\src\lib\decl\boxBase.js132895985888610000 0
 85C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\htmlparser2\package.json132895985891420000 0
 113C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-selector-parser\node_modules\.bin\cssesc.cmd132896035721739774 0
@@ -1843,7 +1845,7 @@
 90C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@babel\highlight\lib\index.js132895985899770000 0
 95C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-normalize-url\src\index.js132895985890160000 0
 106C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\features\css-placeholder.js132895985831050000 0
-104C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-normalize-unicode\node_modules\.bin132896035721589858 1
+104C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-normalize-unicode\node_modules\.bin132896035721619844 1
 107C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-normalize-timing-functions\LICENSE-MIT132895985890140000 0
 90C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\domelementtype\lib\index.d.ts132895985895460000 0
 96C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\htmlnano\lib\modules\mergeStyles.js132895985872450000 0
@@ -1998,7 +2000,7 @@
 81C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\nullthrows\README.md132895985787520000 0
 96C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-colormin\src\minifyColor.js132895985887010000 0
 78C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\dotenv-expand\lib132896029815125037 1
-95C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-colormin\node_modules\.bin132896035721348920 1
+95C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-colormin\node_modules\.bin132896035721388879 1
 100C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\features\dommatrix.js132895985831050000 0
 117C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\msgpackr-extract\prebuilds\linux-x64\electron.abi98.node132895985863110000 0
 100C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\postcss-calc\types\lib\stringifier.d.ts132895985886390000 0
@@ -3022,7 +3024,7 @@
 90C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\walker\create.js132895985882830000 0
 89C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\walker\index.js132895985882830000 0
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\regions\CH.js132895985831050000 0
-90C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-api\node_modules\.bin132896035720864118 1
+90C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-api\node_modules\.bin132896035720894104 1
 100C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\utils\createCustomError.js132895985882830000 0
 108C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\tokenizer\char-code-definitions.js132895985882830000 0
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\tokenizer\index.js132895985882830000 0
@@ -3063,8 +3065,8 @@
 96C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\syntax\node\Comment.js132895985882830000 0
 104C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\syntax\node\DeclarationList.js132895985882830000 0
 97C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\syntax\node\Function.js132895985882830000 0
-110C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\utils\test\input\sourcemap\source-root.js132895985781750000 0
 94C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\optimizer-image\native.js132895985803380000 0
+110C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\utils\test\input\sourcemap\source-root.js132895985781750000 0
 99C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\syntax\node\Identifier.js132895985882830000 0
 99C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\syntax\node\IdSelector.js132895985882830000 0
 94C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\reporter-cli\package.json132895985772870000 0
@@ -3105,7 +3107,7 @@
 99C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\syntax\atrule\supports.js132895985882830000 0
 111C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\features\high-resolution-time.js132895985831050000 0
 90C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\parser\create.js132895985882830000 0
-107C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-posthtml\node_modules\.bin132896035720624818 1
+107C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-posthtml\node_modules\.bin132896035720654801 1
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\parser\sequence.js132895985882830000 0
 88C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\css-tree\lib\lexer\error.js132895985882830000 0
 98C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\utils\test\objectHash.test.js132895985781750000 0
@@ -3427,7 +3429,6 @@
 106C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\features\css-paged-media.js132895985831050000 0
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\regions\HN.js132895985831050000 0
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\regions\HU.js132895985831050000 0
-92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\regions\IE.js132895985831050000 0
 104C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\workers\lib\process\ProcessChild.js132895985788690000 0
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\regions\IL.js132895985831050000 0
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\regions\IQ.js132895985831050000 0
@@ -3546,7 +3547,7 @@
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\regions\ZA.js132895985831050000 0
 106C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\features\abortcontroller.js132895985831050000 0
 98C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\features\ac3-ec3.js132895985831050000 0
-104C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-babel\node_modules\.bin132896035720143069 1
+104C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-babel\node_modules\.bin132896035720185043 1
 104C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\features\accelerometer.js132895985831050000 0
 111C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\caniuse-lite\data\features\alternate-stylesheet.js132895985831050000 0
 122C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\package-manager\test\fixtures\packages\peers\index.js132895985772900000 0
@@ -4168,7 +4169,7 @@
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-postcss\lib132896029818822763 1
 96C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-postcss\LICENSE132895985824860000 0
 101C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-postcss\node_modules132896035720544854 1
-106C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-postcss\node_modules\.bin132896035720544854 1
+106C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-postcss\node_modules\.bin132896035720584846 1
 108C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\test\fixtures\context\package.json132895985772680000 0
 113C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-postcss\node_modules\.bin\semver132896035720594827 0
 128C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\index.js132895985772900000 0
@@ -4177,7 +4178,7 @@
 89C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-json\lib132896029818812765 1
 98C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-json\package.json132895985816450000 0
 108C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-json\src\JSONTransformer.js132895985816450000 0
-103C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-json\node_modules\.bin132896035720484908 1
+103C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-json\node_modules\.bin132896035720514958 1
 91C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-js\LICENSE132895985815810000 0
 116C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\package-manager\test\NodePackageManager.test.js132895985772900000 0
 93C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-js\native.js132895985815810000 0
@@ -4207,7 +4208,7 @@
 111C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@babel\highlight\node_modules\color-name\README.md132895985900500000 0
 89C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-html\src132896029818792779 1
 76C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\.bin\cssesc.cmd132896035722099539 0
-103C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-html\node_modules\.bin132896035720265033 1
+103C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-html\node_modules\.bin132896035720295023 1
 114C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-html\node_modules\.bin\semver.cmd132896035720295023 0
 92C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-css\LICENSE132895985823410000 0
 102C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\transformer-css\node_modules\.bin132896035720245047 1
@@ -4638,7 +4639,7 @@
 106C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\src\public\MutableBundleGraph.js132895985772680000 0
 101C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\src\public\PluginOptions.js132895985772680000 0
 95C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\src\public\Symbols.js132895985772680000 0
-91C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\node_modules\.bin132896035719463707 1
+91C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\node_modules\.bin132896035719503701 1
 104C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\node_modules\.bin\browserslist132896035719413744 0
 97C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\node_modules\.bin\json5132896035719463707 0
 91C:\Users\Diego\Desktop\Proyectos\react-wishlist\node_modules\@parcel\core\lib\assetUtils.js132895985772680000 0
