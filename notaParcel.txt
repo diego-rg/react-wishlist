@@ -1,0 +1,1 @@
+O path do proxecto non pode ter ningún espacio ou dará erro (como "C/o meu proxecto/index.html") e débese iniciar con npx
