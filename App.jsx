@@ -16,7 +16,7 @@ const App = () => (
     </fieldset>
     <ul className="wish-list">
       {wishes.map(({ done, description }, i) => (
-        <li key={description} className="wish-list__item">
+        <li key={description} className={`wish-list__item ${done ? 'wish-list__item--done' : ''}`}>
           <input id={`wish${i}`} type="checkbox" checked={done} />
           <label htmlFor={`wish${i}`}>{description}</label>
         </li>
