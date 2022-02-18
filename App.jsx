@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 
 const wishes = [
     { description: "Become a Web developer", done: false },
