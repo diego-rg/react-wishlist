@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import App  from "./App";
 
+//Index que renderiza a nosa App no div root de html
 ReactDOM.render(
-    <h1>My Wishlist</h1>,//elemento que insertamos
-    document.getElementById("root")//onde o insertamos
+    <App />, document.getElementById("root")
 );
