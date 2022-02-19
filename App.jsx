@@ -1,12 +1,14 @@
+/* eslint-disable semi */
+/* eslint-disable quotes */
 import React from "react";
 import "./App.css";
 
 const wishes = [
   { description: "Become a Web developer", done: false },
-  { description: "Buy a car", done: true },
+  { description: "Buy a car", done: true }
 ];
 
-//BEM: ex: bloque: wish-input, elemento: wish-input__label wish-input__field
+// BEM: ex: bloque: wish-input, elemento: wish-input__label wish-input__field
 const App = () => (
   <div className="app">
     <h1>My wishlist</h1>
