@@ -1,6 +1,10 @@
+@font-face {
+  font-family: "Roboto";
+  src: url(./public/Roboto-Regular.ttf);
+}
 * {
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: "Roboto";
   }
   body,
   html {
@@ -9,7 +13,8 @@
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
+    background-color: lightblue; 
   }
   .app {
     width: 400px;
