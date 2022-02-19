@@ -14,18 +14,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: lightblue; 
+    background-color: whitesmoke; 
   }
   .app {
     width: 400px;
     max-width: 100%;
     border: 1px solid;
     padding: 0 2rem 2rem 2rem;
-    background-color: whitesmoke;
+    background-color: white;
   }
   .wish-input {
     border: 0;
-    border-bottom: 3px dashed grey;
+    border-bottom: 2px dashed grey;
     padding: 0;
   }
   .wish-input__label {
@@ -34,10 +34,16 @@
   .wish-input__field {
     width: 100%;
     border: 0;
-    padding: 0.5rem;
+    padding: 0.1rem;
     margin-top: 0.5rem;
     font-size: 1.2rem;
     background-color: transparent;
+  }
+  .wish-input__field:focus {
+    outline: none;
+  }
+  .wish-input__field:focus::placeholder {
+    color: transparent;
   }
   .wish-list {
     list-style: none;
