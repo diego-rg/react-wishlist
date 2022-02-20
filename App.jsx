@@ -16,11 +16,11 @@ const App = () => {
   const [wishes, setWishes] = useState(initialWishes);
   return (
     <div className="app">
-    <h1>My wishlist</h1>
-    <WishInput onNewWish={wish => setWishes([wish, ...wishes])} />
-    <WishList wishes={wishes}/>
-    <button type="button" className="wish-clear">Archive all done</button>
-  </div>
+      <h1>My wishlist</h1>
+      <WishInput onNewWish={wish => setWishes([...wishes, wish])} />
+      <WishList wishes={wishes} onWishesChange={wishes => setWishes(wishes)} />
+      <button type="button" className="wish-clear" onClick={() => setWishes(wishes.filter(wish => !wish.done))}>Archive all done</button>
+    </div>
   );
 }
 
