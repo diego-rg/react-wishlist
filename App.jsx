@@ -16,7 +16,7 @@ const App = () => {
   const [wishes, setWishes] = useState(initialWishes);
   return (
     <div className="app">
-      <h1>My wishlist</h1>
+      <h1 className="wishlist-title">My wishlist</h1>
       <WishInput onNewWish={wish => setWishes([...wishes, wish])} />
       <WishList wishes={wishes} onWishesChange={wishes => setWishes(wishes)} />
       <button type="button" className="wish-clear" onClick={() => setWishes(wishes.filter(wish => !wish.done))}>Archive all done</button>

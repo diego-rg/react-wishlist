@@ -23,6 +23,9 @@
     padding: 0 2rem 2rem 2rem;
     background-color: white;
   }
+  .wishlist-title {
+    text-align: center;
+  }
   .wish-input {
     border: 0;
     border-bottom: 2px dashed grey;
@@ -74,4 +77,8 @@
     font-size: 1.2rem;
     border: 1px solid grey;
     border-radius: 3px;
+  }
+  .wish-clear:hover {
+    cursor: pointer;
+    background-color: whitesmoke;
   }
