@@ -8,7 +8,8 @@ import WishList from "./WishList";// Importamos o compoñente que representa a l
 
 const initialWishes = [
   { description: "Become a Web developer", done: false },
-  { description: "Buy a car", done: true }
+  { description: "Buy a car", done: true },
+  { description: "Get some food", done: false }
 ];
 
 // BEM: ex: bloque: wish-input, elemento: wish-input__label wish-input__field. Con subelementos podemos usar: wish-input__label span

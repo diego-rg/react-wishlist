@@ -27,21 +27,24 @@
     text-align: center;
   }
   .wish-input {
+    display: flex;
+    justify-content: space-between;
     border: 0;
-    border-bottom: 2px dashed grey;
     padding: 0;
+    margin: 0;
   }
   .wish-input__label {
     font-weight: 700;
     font-size: 1.2rem;
   }
   .wish-input__field {
-    width: 100%;
+    width: 75%;
     border: 0;
     padding: 0.1rem;
     margin-top: 1rem;
     font-size: 1.2rem;
     background-color: transparent;
+    border-bottom: 2px dashed grey;
   }
   .wish-input__field:focus {
     outline: none;
@@ -75,6 +78,17 @@
   }
   .wish-list__item--red label {
     color: red;
+  }
+  .wish-input__add {
+    padding: 0.5rem;
+    background: white;
+    font-size: 1.2rem;
+    border: 1px solid grey;
+    border-radius: 3px;
+  }
+  .wish-input__add:hover {
+    cursor: pointer;
+    background-color: whitesmoke;
   }
   .wish-clear {
     width: 100%;

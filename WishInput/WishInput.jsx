@@ -9,13 +9,13 @@ const WishInput = ({ onNewWish }) => {
   return (
     <fieldset className="wish-input">
       <legend className="wish-input__label">New wish:</legend>
-      <input className="wish-input__field" type="text" placeholder="I want to..." value={newWishText} onChange={e => setNewWishText(e.target.value)}
-      onKeyUp={(e) => { // Mellor un btn??
-        if (e.key === "Enter" && newWishText.length) {
+      <input className="wish-input__field" type="text" placeholder="I want to..." value={newWishText} onChange={e => setNewWishText(e.target.value)} />
+      <button type="button" className="wish-input__add" onClick={() => {
+        if (newWishText.length) {
           onNewWish({ done: false, description: newWishText });
           setNewWishText("") // limpa o input despois de mandalo
         }
-      }} />
+      }}>Save</button>
     </fieldset>
   );
 }
